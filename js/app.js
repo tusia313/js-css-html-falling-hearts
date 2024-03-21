@@ -1,10 +1,18 @@
 const body = document.querySelector('body')
 
-class Heart{
+class Heart {
     constructor(color, position, speed) {
         this.color = color
         this.position = position
         this.speed = speed
+    }
+    drew() {
+        const divElement = document.createElement('div')
+        divElement.classList.add('heart')
+        divElement.style.setProperty('--c', this.color)
+        divElement.style.left = this.position + 'px'
+        divElement.style.speed = this.speed
+        body.append(divElement)
     }
 }
 
@@ -17,6 +25,7 @@ function addHeart() {
 
     const newHeart = new Heart(randomColor, randomPosition, randomSpeed)
     console.log(newHeart)
+    newHeart.drew()
 }
 
 addHeart()

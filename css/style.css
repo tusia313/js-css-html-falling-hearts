@@ -7,19 +7,19 @@ body {
 }
 
 .heart {
-    background-color: magenta;
+    background-color: var(--c);
     height: 2rem;
     width: 2rem;
     position: absolute;
-    top: 3rem;
-    left: 3rem;
+    top: 0;
+    left: 0;
     transform: rotate(-49deg);
 }
 
 .heart::before,
 .heart::after {
     content: '';
-    background-color: magenta;
+    background-color: var(--c);
     border-radius: 50%;
     height: 2rem;
     width: 2rem;
