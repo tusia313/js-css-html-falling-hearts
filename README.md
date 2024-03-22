@@ -1,2 +1,2 @@
 # js-css-html-falling-hearts
-Funny animation, where I could practise JS of course, but mostly objects and their classes.
+Such lovely animation! Not only heart-warming, but letting practise JS objects, their classes, contructors, functions...How to not love coding? :)
