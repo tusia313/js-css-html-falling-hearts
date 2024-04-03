@@ -18,7 +18,7 @@ class Heart {
 
         function move() {
             divElement.style.top = top + 'px'
-            top += 10
+            top += 15
             if (top >= window.innerHeight) {
                 clearInterval(timerId)
                 divElement.remove()
@@ -37,4 +37,4 @@ function addHeart() {
     console.log(newHeart)
     newHeart.drew()
 }
-setInterval(addHeart, 100)
+setInterval(addHeart, 200)
