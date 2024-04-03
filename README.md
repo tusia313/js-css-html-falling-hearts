@@ -1,4 +1,3 @@
-# js-css-html-falling-hearts
 
 # 💗 Falling hearts 💗
 
