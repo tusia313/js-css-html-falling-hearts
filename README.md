@@ -6,7 +6,7 @@
 Such a lovely animation! Not only heart-warming, but letting practise JS objects, their classes, contructors, functions...How to not love coding? :) 
 
 ## 🥰 First look 
-For few seconds a screen is full of falling hearts 
+In few seconds a screen is full of falling hearts !
 ![first page](./img/screen_2.png)
 
 🧡	💛	💚	💙	💜	🤎	🖤	🤍
