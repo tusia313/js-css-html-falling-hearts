@@ -7,6 +7,7 @@ Such a lovely animation! Not only heart-warming, but letting practise JS objects
 
 ## 🥰 First look 
 In few seconds a screen is full of falling hearts !
+
 ![first page](./img/screen_2.png)
 
 🧡	💛	💚	💙	💜	🤎	🖤	🤍
