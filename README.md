@@ -9,6 +9,8 @@ Such a lovely animation! Not only heart-warming, but letting practise JS objects
 For few seconds a screen is full of falling hearts 
 ![first page](./img/screen_2.png)
 
+🧡	💛	💚	💙	💜	🤎	🖤	🤍
+
 ![secondt page](./img/screen_3.png)
 
 ## 🥰 Technologies
